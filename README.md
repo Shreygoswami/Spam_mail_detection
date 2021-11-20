@@ -8,3 +8,5 @@ Flow chart of this project
  * Train-test split
  * SVM model building
  * Prediction
+
+For queries, feel free to drop a message on [LinkedIn](https://www.linkedin.com/in/sonugoswami1/).
